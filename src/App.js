@@ -1,12 +1,14 @@
-import logo from './logo.svg';
+
+import ChildA from './components/ChildA';
 import './App.css';
-import Helloworld from './components/Helloworld';
 
 function App() {
+  // const name = "Hamza";
   return (
     <div>
      
-<Helloworld></Helloworld>
+<ChildA/>
+
 
     </div>
   );
