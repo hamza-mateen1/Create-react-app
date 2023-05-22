@@ -1,5 +1,4 @@
-
-import ChildA from './components/ChildA';
+import First from './components/First';
 import './App.css';
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
   return (
     <div>
      
-<ChildA/>
+<First/>
 
 
     </div>
